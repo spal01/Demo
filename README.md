@@ -1,1 +1,1 @@
-Cucumber with maven java doc
+Cucumber with maven java document
